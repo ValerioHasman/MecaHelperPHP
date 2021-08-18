@@ -12,14 +12,6 @@
 </head>
 
 <body>
-    <header>
-        <nav>
-            <a href="#">Início</a>
-            <a href="#">Notícias</a>
-            <a href="#">Contato</a>
-            <a href="#">Sobre</a>
-        </nav>
-    </header>
     <?php
 
     $this->carregarViewNoTemplate($nomeView, $dadosModel);

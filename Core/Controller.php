@@ -8,7 +8,6 @@ abstract class Controller
 
     public function __construct()
     {
-        Controller::$noticias = new Noticias();
     }
 
     public function carregarTemplate(string $nomeView, array $dadosModel): void
