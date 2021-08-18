@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(197, 197, 197);
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+header{
+    background-color: rgb(116, 116, 116);
+    height: 10vh;
+}
+.noticias{
+    background-color: rgb(158, 87, 87);
+    width: 550px;
+    height: 550px;
+    margin: auto;
+}
+.noticias div{
+    background-color: rgb(79, 79, 146);
+    width: 180px;
+    height: 180px;
+    margin: 3px 0px 0px 2.5px;
+    float: left;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
