@@ -4,3 +4,14 @@ body{
     background-color: rgb(177, 177, 202);
     font-family: sans-serif;
 }
+.imagemRolando{
+    width: 75vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+}

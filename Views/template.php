@@ -54,7 +54,7 @@
             </div>
         </div>
     </nav>
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+    <div id="carouselExampleSlidesOnly" class="carousel slide imagemRolando" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="https://images.pexels.com/photos/474/black-and-white-car-vehicle-vintage.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
