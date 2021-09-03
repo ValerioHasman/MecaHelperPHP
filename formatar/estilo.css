@@ -4,14 +4,18 @@ body{
     background-color: rgb(177, 177, 202);
     font-family: sans-serif;
 }
-.imagemRolando{
-    width: 75vh;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: auto;
-    min-width: 50%;
-    min-height: 50%;
+.imagemRolando div div img{
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: 80vh;
+    object-position: 0% 50%;
+    /*background-size: cover;*/
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-position: center;
+    /*background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;*/
 }
