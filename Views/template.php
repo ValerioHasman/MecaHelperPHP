@@ -17,7 +17,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark bg-opacity-50">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark bg-opacity-75">
         <div class="container-fluid">
             <a class="navbar-brand" href="home/index"><img src="midias/svg.svg" alt="Logo" width="152"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
