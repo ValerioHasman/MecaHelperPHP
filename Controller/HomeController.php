@@ -5,16 +5,16 @@ class HomeController extends Controller
 
     public function index(): void
     {
-        $this->carregarTemplate('home', array());
+        $this->carregarTemplate('Home', array());
     }
 
     public function sobre(): void
     {
-        $this->carregarTemplate('sobre', array());
+        $this->carregarTemplate('Sobre', array());
     }
 
     public function contato(): void
     {
-        $this->carregarTemplate('contato', array());
+        $this->carregarTemplate('Contato', array());
     }
 }
