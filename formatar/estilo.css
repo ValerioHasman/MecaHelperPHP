@@ -20,11 +20,15 @@ body{
     background-position: center;*/
 }
 #conteudo {
-    background: rgba(38, 39, 41, 0.280);
+    background: rgba(38, 39, 41, 0.75);
     backdrop-filter: blur(0.20rem);
     color: white;
     position: absolute;
     top: 40vh;
+    left: 10%;
+    right: 10%;
+    margin: 0 auto;
+    padding: 1rem;
     width: 80%;
     bottom: unset;
     z-index: 5000;
