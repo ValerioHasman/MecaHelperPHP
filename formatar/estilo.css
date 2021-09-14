@@ -27,23 +27,12 @@ body{
     width: 100%;
     height: 100vh;
     object-position: 0% 50%;
-    /*background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;*/
 }
-#conteudo {
-    background: rgba(38, 39, 41, 0.75);
+.caixaHome{
     backdrop-filter: blur(0.20rem);
-    color: white;
-    position: absolute;
-    top: 40vh;
-    left: 10%;
-    right: 10%;
-    margin: 0 auto;
+    margin-top: 20vh;
+    text-align: center;
+}
+.topicosHome{
     padding: 1rem;
-    width: 80%;
-    bottom: unset;
-    z-index: 1029;
-    display: inline;
 }

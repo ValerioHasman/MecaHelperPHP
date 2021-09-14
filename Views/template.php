@@ -28,15 +28,6 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="home/index">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="home/sobre">Sobre a Aplicação</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="home/contato">Contato</a>
-                    </li>
-                    <li class="nav-item">
                         <!-- Button trigger modal -->
                         <button type="button" class="btn nav-link active" data-bs-toggle="modal"
                             data-bs-target="#logarModal">
